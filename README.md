@@ -18,5 +18,4 @@ Open `index.html` in a web browser. No build tools or dependencies are required.
 
 - Frontend projects: [roadmap.sh](https://roadmap.sh/frontend/projects)
 - Project definition: [Pricing Comparison Table](https://roadmap.sh/projects/pricing-comparison-table)
-- Vote for my project: [URL]()
-- Live preview: [preview]()
+- Vote for my project: [URL](https://roadmap.sh/projects/pricing-comparison-table/solutions?u=66107474da1671f986289b45)
